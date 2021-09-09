@@ -1,4 +1,4 @@
-# 3D-Reconstruction
-Aim of the project : 
-Image fusion to 3D reconstruction
-Sensor Data Fusion (camera + Lidar) for 3D reconstruction 
+# 3D perception 
+# 3D sensor fusion
+# Computer vision
+# AI
